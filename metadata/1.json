@@ -1,0 +1,69 @@
+{
+    "name": "Prestigieux manoir de style classique",
+    "address": "703 Rue des Châtaigniers, Boucherville, Québec J4B8S4",
+    "description": "Propriété de style classique sise sur un terrain sans voisin arrière du prestigieux secteur du Boisé. Son espace de vie rayonnant autour d'un imposant escalier offre cinq chambres à coucher et trois salles de bains dont la spacieuse suite des maîtres. La propriété se distingue par sa véranda trois saisons, son cinéma-maison et son garage quadruple. La cour intime est aménagée par plusieurs aires de détente et une piscine creusée, chauffée et saline vous permettant de profiter de la saison estivale. Une visite s'impose!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdAjo329HctAJcanobMciAx53F5JR4NWVBAgGQJUsSFbN",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Prix d'achat",
+            "value": 1840
+        },
+        {
+            "trait_type": "Type de propriété",
+            "value": "Unifamiliale"
+        },
+        {
+            "trait_type": "Type de bâtiment",
+            "value": "Unifamilial"
+        },
+        {
+            "trait_type": "Étages",
+            "value": 2
+        },
+        {
+            "trait_type": "Quartier",
+            "value": "Le Boisé"
+        },
+        {
+            "trait_type": "Superficie du terrain",
+            "value": 997
+        },
+        {
+            "trait_type": "Superficie",
+            "value": 480
+        },
+        {
+            "trait_type": "Date de construction",
+            "value": 2004
+        },
+        {
+            "trait_type": "Salles de bain",
+            "value": 3
+        },
+        {
+            "trait_type": "Chambres",
+            "value": 5
+        },
+        {
+            "trait_type": "Type de stationnement",
+            "value": "Garage, Autre"
+        },
+        {
+            "trait_type": "Type de sous-sol",
+            "value": "Sous-sol complet (Aménagé)"
+        },
+        {
+            "trait_type": "Système de refroidissement",
+            "value": "Échangeur d'air"
+        },
+        {
+            "trait_type": "Type de chauffage",
+            "value": "Électrique, Gaz naturel"
+        },
+        {
+            "trait_type": "Piscine",
+            "value": "Piscine creusée"
+        }
+    ]
+}

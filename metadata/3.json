@@ -1,0 +1,65 @@
+{
+    "name": "Maison architecturale d'exception",
+    "address": "6715 Rue De St-Vallier, Montréal, Québec H2S2R1",
+    "description": "Maison architecturale d'exception située, dans Rosemont - La Petite Patrie, à quelques pas de la Petite Italie et du Marché Jean-Talon. Signé Julie Asselin Architecte, tous les détails de cette propriété, unique en son genre, ont été réfléchis afin de répondre aux besoins d'une famille désirant habiter un espace de vie spacieux, fonctionnel et chaleureux. Tous les meubles et articles de décoration, qui ont été soigneusement choisi afin de s'allier au design, sont compris avec la propriété. Celle-ci comprend 5 chambres à coucher, 3 salles de bain complètes, 1 salle d'eau et 1 garage.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmV5KTAJ5ZwV5hibtUtkUxLgfuAuLTbyZgXt6Pu2yTr787",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Prix d'achat",
+            "value": 1951
+        },
+        {
+            "trait_type": "Type de propriété",
+            "value": "Unifamiliale"
+        },
+        {
+            "trait_type": "Type de bâtiment",
+            "value": "Unifamilial"
+        },
+        {
+            "trait_type": "Étages",
+            "value": 2
+        },
+        {
+            "trait_type": "Quartier",
+            "value": "La Petite-Patrie"
+        },
+        {
+            "trait_type": "Superficie du terrain",
+            "value": 232.3
+        },
+        {
+            "trait_type": "Superficie",
+            "value": 398.5
+        },
+        {
+            "trait_type": "Date de construction",
+            "value": 1900
+        },
+        {
+            "trait_type": "Salles de bain",
+            "value": 4
+        },
+        {
+            "trait_type": "Chambres",
+            "value": 5
+        },
+        {
+            "trait_type": "Type de stationnement",
+            "value": "Garage"
+        },
+        {
+            "trait_type": "Type de sous-sol",
+            "value": "Sous-sol complet (Aménagé)"
+        },
+        {
+            "trait_type": "Système de refroidissement",
+            "value": "Échangeur d'air"
+        },
+        {
+            "trait_type": "Type de chauffage",
+            "value": "Électrique"
+        }
+    ]
+}

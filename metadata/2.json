@@ -1,0 +1,69 @@
+{
+    "name": "Maison architecturale moderne",
+    "address": "45 Place Kathleen-Laing, Dorval, Québec H9S0B8",
+    "description": "Tombez sous le charme de cette époustouflante maison clé en main bâtie par les développements Presti. Somptueusement conçue avec les meilleurs matériaux : cabinets italien Poliform, système de gaz naturel, portes Filomuro de 10 pieds, planchers chauffants en bois Chevron, système Bose, foyers doubles muraux, système de fonte de neige, et plus encore. Cette maison à concept ouvert comprend 5 chambres à coucher, 6 salles de bain, cinéma, salle de sport, sauna et garage double. Le terrain comprend une superbe terrasse, avec une piscine creusé attenante. Entouré d'arbres matures, sur une rue privé, offrant la tranquillité ultime.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmasi1zLA9etttN1Q4S3vQa13KcBV9s5m3nJ7YRFtwu8KQ",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Prix d'achat",
+            "value": 2666
+        },
+        {
+            "trait_type": "Type de propriété",
+            "value": "Unifamiliale"
+        },
+        {
+            "trait_type": "Type de bâtiment",
+            "value": "Unifamilial"
+        },
+        {
+            "trait_type": "Étages",
+            "value": 2
+        },
+        {
+            "trait_type": "Quartier",
+            "value": "Sud Ouest"
+        },
+        {
+            "trait_type": "Superficie du terrain",
+            "value": 989
+        },
+        {
+            "trait_type": "Superficie",
+            "value": 408
+        },
+        {
+            "trait_type": "Date de construction",
+            "value": 2021
+        },
+        {
+            "trait_type": "Salles de bain",
+            "value": 6
+        },
+        {
+            "trait_type": "Chambres",
+            "value": 5
+        },
+        {
+            "trait_type": "Type de stationnement",
+            "value": "Garage, Garage intégré, Autre"
+        },
+        {
+            "trait_type": "Type de sous-sol",
+            "value": "Sous-sol complet (Aménagé)"
+        },
+        {
+            "trait_type": "Système de refroidissement",
+            "value": "Climatisation centrale, Échangeur d'air"
+        },
+        {
+            "trait_type": "Type de chauffage",
+            "value": "Gaz naturel"
+        },
+        {
+            "trait_type": "Piscine",
+            "value": "Piscine creusée chauffée"
+        }
+    ]
+}
